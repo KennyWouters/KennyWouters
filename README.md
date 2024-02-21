@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#Welcome on my Github
+
+####- I'm currently learning **Web Development**
+####- python enthusiast
+####- I'm interested in full-stack, unity...
+####- Some of my hobbies are leathercraft and playing music (cello, guitar, electronic...)
+
 <!--
 **KennyWouters/KennyWouters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
