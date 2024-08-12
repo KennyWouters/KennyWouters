@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Welcome on my Github
+#Welcome to my Github
 
 #### - I'm currently learning **Web Development**
 #### - python enthusiast
