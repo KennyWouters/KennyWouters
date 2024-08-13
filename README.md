@@ -20,5 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/df09c5b1-0494-41bd-bd20-8c6c0e08fa38)
+
 -->
-https://www.credly.com/badges/672683c7-71a0-4ce1-af4d-e7def5988370/public_url
+
