@@ -3,7 +3,7 @@
 #Welcome to my Github
 
 #### - dotnet / backend enthusiast
-#### - I'm interested development architectures, processes and security, unity game development...
+#### - I'm interested in development architectures, processes and security, unity game development...
 #### - Some of my hobbies are leathercraft and playing music
 #### - Always curious
 
