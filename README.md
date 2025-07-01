@@ -3,8 +3,9 @@
 #Welcome to my Github
 
 #### - dotnet / backend enthusiast
-#### - I'm interested in full-stack web development, unity game development...
-#### - Some of my hobbies are leathercraft and playing music.
+#### - I'm interested development architectures, processes and security, unity game development...
+#### - Some of my hobbies are leathercraft and playing music
+#### - Always curious
 
 <!--
 **KennyWouters/KennyWouters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
